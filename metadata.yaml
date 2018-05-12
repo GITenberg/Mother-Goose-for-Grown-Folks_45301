@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3859
     wikipedia: http://en.wikipedia.org/wiki/Adeline_Dutton_Train_Whitney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45301#Mother-Goose-for-Grown-Folks
 gutenberg_issued: '2014-04-01'
 gutenberg_type: Text
 identifiers:
